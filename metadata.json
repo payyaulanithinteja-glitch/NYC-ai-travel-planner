@@ -1,0 +1,6 @@
+{
+  "name": "Urban Kinetic Pulse",
+  "description": "Multilingual New York City companion and kinetic urban explorer with real-time transit pulses, cultural decoder, and interactive routes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
